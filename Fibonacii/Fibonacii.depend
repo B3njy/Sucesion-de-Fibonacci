@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1470981986 source:c:\users\m68m-s2\desktop\proyectos\fibonacii\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1470986558 source:c:\users\m68m-s2\desktop\proyectos\fibonacii\fibonacii.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1471304895 source:c:\users\m68m-s2\desktop\proyectos\c-c++\c++\fibonacii\fibonacii.cpp
+	<iostream>
+	<stdlib.h>
+
